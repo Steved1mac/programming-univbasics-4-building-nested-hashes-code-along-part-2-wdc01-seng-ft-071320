@@ -49,7 +49,6 @@ def add_characters
    }
 
 epic_tragedy[:additional_characters] = 'Prince Escalus'
-epic_tragedy[:additional_characters] = 'Apothecary'
 
    # Write code below that does the following programmatically:
    #
